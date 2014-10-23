@@ -1,5 +1,5 @@
 # Set Kernel Version
-CONFIG_LOCALVERSION="BeyondStock(TM)-M8_v1.00"
+CONFIG_LOCALVERSION="-BeyondStock-M8-1.00"
 # CONFIG_LOCALVERSION_AUTO is not set
 
 #
